@@ -1,3 +1,4 @@
+// Basic string formatting for HTML5 Server-Sent Events
 package sse
 
 import (
